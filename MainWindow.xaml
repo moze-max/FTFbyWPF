@@ -1,0 +1,87 @@
+﻿<Window x:Class="FTFbyWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FTFbyWPF"
+        mc:Ignorable="d"
+        Title="FTF_APP" Height="450" Width="800"
+        ResizeMode="CanMinimize">
+    <Grid x:Name="grid" Cursor="Hand" SnapsToDevicePixels="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="77*"/>
+        </Grid.ColumnDefinitions>
+
+        <TabControl TabStripPlacement="Top" Grid.ColumnSpan="2" >
+            <TabItem Header="some things" Background="WhiteSmoke" FontStyle="Oblique" FontWeight="Black">
+                <Grid Background="AliceBlue" Height="400" Width="800">
+
+                    <Button Content="放入文件" FontSize="30" FontStyle="Normal" FontWeight="Normal"
+                            HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="292,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" 
+                            Height="54" Width="142"
+                            Click="文件入口_Click">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+
+                    </Button>
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="0,232,0,0" Grid.ColumnSpan="2" >
+                        <TextBox TextWrapping="WrapWithOverflow" Text="可在此处粘贴文本" TextAlignment="Left" AllowDrop="True" FontStyle="Normal" FontWeight="Normal"/>
+                    </Border>
+
+
+                </Grid>
+
+
+            </TabItem>
+            <TabItem Header="了解更多" Background="WhiteSmoke" >
+                <TabControl TabStripPlacement="Left">
+                    <TabItem Header="作者" Background="AntiqueWhite">
+                        <Grid Height="400" Width="740">
+                            <TextBlock x:Name="自我介绍" 
+                                       HorizontalAlignment="Left" Margin="3,6,0,0" 
+                                       TextWrapping="Wrap"  VerticalAlignment="Top" 
+                                       Height="134" Width="336"
+                                       Background="AntiqueWhite"
+                                       Text="我是墨泽，一个兴趣使然的程序员，很高兴认识你！"
+                                       FontSize="30"
+                                       FontStyle="Normal"/>
+                            <Image HorizontalAlignment="Left" Height="145" Margin="2,142,0,0" VerticalAlignment="Top" Width="335" Source="C:\Users\MZper\coding\c#\FTFbyWPF\FTF_logo.png"/>
+                        </Grid>
+                    </TabItem>
+
+
+                </TabControl>
+            </TabItem>
+
+        </TabControl>
+
+
+
+
+    </Grid>
+</Window>
+
+
+
+<!--<Button x:Name="文件入口" Content="点击选择文件" FontSize="30" HorizontalAlignment="Left" Margin="234,51,0,0" VerticalAlignment="Top" Cursor="Hand" Click="文件入口_Click" IsDefault="True"/>-->
+
+<!--<Label Content="墨泽制作&#xA;此软件用来预处理翻译的文档&#xA;使你可以免除大量的回车&#xD;&#xA;修改后会覆盖原文档&#xA;为避免出现问题&#xA;请备份原文件后使用" FontSize="30"  HorizontalAlignment="Left" Margin="60,7,0,0" VerticalAlignment="Top" Width="686" Height="257" HorizontalContentAlignment="Center" Grid.Row="1">
+     <Label.Background>
+         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+             <GradientStop Color="#FFA48D8D" Offset="1"/>
+             <GradientStop Color="White"/>
+             <GradientStop Color="#FFD3C8C8"/>
+             <GradientStop Color="#FF9AD6DA"/>
+             <GradientStop Color="#FF9AD6DA"/>
+             <GradientStop Color="#FF9AD6DA"/>
+             <GradientStop Color="#FF6BBEC4"/>
+         </LinearGradientBrush>
+     </Label.Background>
+ </Label>-->

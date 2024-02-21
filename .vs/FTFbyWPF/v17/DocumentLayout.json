@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|c:\\users\\mzper\\coding\\c#\\ftfbywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50A2FE2C-D11E-4A72-B998-98F7EE3FCC8C}|FTFbyWPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAESSURBVFhHY2TAAVrX3/wPoo3lecF8DyMpnGopAUxQesAATl/tufgCHAKRM66B\u002BQtT1MG0l7E0VUNiEIRA7C6wTwkBTUlOML0lXQpMV1ZWgml0wM7ODqYLCgrAtLGxMd4QG7xpYPeFZ\u002BCQiZp5A8yHpQFLJS4w/e3bNzCNDgoLC8E0KysrmC4qKgLTuEJi8IYAejlgrghJA7h8DgOwEIABQiExeEPg5k1ICIiJiYH5hHwOA\u002BghAAOw3LF48eIhEgJxcXHgEGhvbwfzKQWwkFm1atXgCgGcDvjx4wcY0xoM3hCgFxh1wKgDRh0w6oBRBwy4A3C2BzIzM8Htgbdv34L5lAJhYWEwPX369MHVHhjpgIEBAKhsRwWeq9xWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-02-04T02:19:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-04T02:13:38.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-04T02:18:58.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MZper\\coding\\c#\\FTFbyWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T02:13:38.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
